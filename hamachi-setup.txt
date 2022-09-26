@@ -1,0 +1,7 @@
+
+ install hamachi from terminal
+ sudo service logmein-hamachi start
+ hamachi login
+ sudo hamachi attach praj80110@gmail.com
+ join hamachi to specific network
+ 
